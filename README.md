@@ -2,6 +2,7 @@
 
 # Firehouse
 ### Sandwiches
+##### Catch Fire
 Available only on weekdays!
 
 <!--
