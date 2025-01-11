@@ -1,5 +1,10 @@
 <header>
 
+# Firehouse
+### Sandwiches
+##### Catch Fire
+Available only on weekdays!
+
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
